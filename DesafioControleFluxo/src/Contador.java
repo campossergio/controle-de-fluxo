@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.text.ParseException;
 
 public class Contador {
     public static void main(String[] args) {
